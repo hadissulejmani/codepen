@@ -1,2 +1,2 @@
 # codepen
-A simplified codepen sample for excercise.
+A simplified codepen sample for freecodecamp.org excercise.
